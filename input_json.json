@@ -1,0 +1,322 @@
+[
+    {
+        "team": "kentucky",
+        "offensive": 1.207870838,
+        "defensive": 1.227272727
+    },
+    {
+        "team": "hampton",
+        "offensive": 0.911344137,
+        "defensive": 0.956989247
+    },
+    {
+        "team": "cincinnati",
+        "offensive": 1.069138277,
+        "defensive": 1.095391211
+    },
+    {
+        "team": "purdue",
+        "offensive": 1.07960199,
+        "defensive": 1.093717817
+    },
+    {
+        "team": "westvirginia",
+        "offensive": 1.130081301,
+        "defensive": 1.114255765
+    },
+    {
+        "team": "buffalo",
+        "offensive": 1.077526987,
+        "defensive": 1.061928934
+    },
+    {
+        "team": "maryland",
+        "offensive": 1.083916084,
+        "defensive": 1.11627907
+    },
+    {
+        "team": "valparaiso",
+        "offensive": 0.995206136,
+        "defensive": 1.081654295
+    },
+    {
+        "team": "butler",
+        "offensive": 1.075,
+        "defensive": 1.166848419
+    },
+    {
+        "team": "texas",
+        "offensive": 1.125510204,
+        "defensive": 1.138263666
+    },
+    {
+        "team": "notredame",
+        "offensive": 1.21471173,
+        "defensive": 1.046138415
+    },
+    {
+        "team": "northeastern",
+        "offensive": 1.024154589,
+        "defensive": 0.997070313
+    },
+    {
+        "team": "wichitast",
+        "offensive": 1.125498008,
+        "defensive": 1.09795479
+    },
+    {
+        "team": "indiana",
+        "offensive": 1.163672655,
+        "defensive": 1.00191022
+    },
+    {
+        "team": "kansas",
+        "offensive": 1.149377593,
+        "defensive": 1.198895028
+    },
+    {
+        "team": "newmexicost",
+        "offensive": 0.992373689,
+        "defensive": 1.014300306
+    },
+    {
+        "team": "wisconsin",
+        "offensive": 1.268565615,
+        "defensive": 1.12407211
+    },
+    {
+        "team": "coastalcarolina",
+        "offensive": 0.975494816,
+        "defensive": 0.982387476
+    },
+    {
+        "team": "oregon",
+        "offensive": 1.134134134,
+        "defensive": 1.048707753
+    },
+    {
+        "team": "oklahomast",
+        "offensive": 1.132505176,
+        "defensive": 1.098752599
+    },
+    {
+        "team": "arkansas",
+        "offensive": 1.132264529,
+        "defensive": 1.076765609
+    },
+    {
+        "team": "wofford",
+        "offensive": 0.979146919,
+        "defensive": 1.049230769
+    },
+    {
+        "team": "northcarolina",
+        "offensive": 1.182564103,
+        "defensive": 1.137894737
+    },
+    {
+        "team": "harvard",
+        "offensive": 0.997067449,
+        "defensive": 1.081395349
+    },
+    {
+        "team": "xavier",
+        "offensive": 1.141836735,
+        "defensive": 1.110301769
+    },
+    {
+        "team": "mississippi",
+        "offensive": 1.143870314,
+        "defensive": 1.043956044
+    },
+    {
+        "team": "baylor",
+        "offensive": 1.178644764,
+        "defensive": 1.125925926
+    },
+    {
+        "team": "georgiast",
+        "offensive": 1.063788027,
+        "defensive": 1.008064516
+    },
+    {
+        "team": "vcu",
+        "offensive": 1.086432161,
+        "defensive": 1.13034188
+    },
+    {
+        "team": "ohiost",
+        "offensive": 1.108242304,
+        "defensive": 1.109820486
+    },
+    {
+        "team": "arizona",
+        "offensive": 1.164658635,
+        "defensive": 1.216435185
+    },
+    {
+        "team": "texas",
+        "offensive": 1.125510204,
+        "defensive": 1.138263666
+    },
+    {
+        "team": "villanova",
+        "offensive": 1.22515213,
+        "defensive": 1.140997831
+    },
+    {
+        "team": "lafayette",
+        "offensive": 1.054493308,
+        "defensive": 0.894783378
+    },
+    {
+        "team": "northcarolinast",
+        "offensive": 1.123991935,
+        "defensive": 1.083503055
+    },
+    {
+        "team": "lsu",
+        "offensive": 1.071213641,
+        "defensive": 1.096092925
+    },
+    {
+        "team": "northerniowa",
+        "offensive": 1.12007874,
+        "defensive": 1.094420601
+    },
+    {
+        "team": "wyoming",
+        "offensive": 0.994140625,
+        "defensive": 1.039175258
+    },
+    {
+        "team": "louisville",
+        "offensive": 1.067540323,
+        "defensive": 1.187919463
+    },
+    {
+        "team": "ucirvine",
+        "offensive": 1.021632252,
+        "defensive": 1.043743642
+    },
+    {
+        "team": "providence",
+        "offensive": 1.127291242,
+        "defensive": 1.121465969
+    },
+    {
+        "team": "dayton",
+        "offensive": 1.066666667,
+        "defensive": 1.085533263
+    },
+    {
+        "team": "oklahoma",
+        "offensive": 1.11190234,
+        "defensive": 1.213723285
+    },
+    {
+        "team": "albany",
+        "offensive": 1.000961538,
+        "defensive": 0.969488189
+    },
+    {
+        "team": "michiganst",
+        "offensive": 1.143286573,
+        "defensive": 1.1144641
+    },
+    {
+        "team": "georgia",
+        "offensive": 1.085192698,
+        "defensive": 1.129925453
+    },
+    {
+        "team": "virginia",
+        "offensive": 1.133333333,
+        "defensive": 1.236533958
+    },
+    {
+        "team": "belmont",
+        "offensive": 1.041505792,
+        "defensive": 0.942723005
+    },
+    {
+        "team": "duke",
+        "offensive": 1.22983871,
+        "defensive": 1.1144641
+    },
+    {
+        "team": "northflorida",
+        "offensive": 1.0028463,
+        "defensive": 0.975680934
+    },
+    {
+        "team": "sandiegost",
+        "offensive": 1.015873016,
+        "defensive": 1.173272933
+    },
+    {
+        "team": "stjohns",
+        "offensive": 1.084252758,
+        "defensive": 1.111807733
+    },
+    {
+        "team": "utah",
+        "offensive": 1.134538153,
+        "defensive": 1.164459161
+    },
+    {
+        "team": "stephenfaustin",
+        "offensive": 1.077216397,
+        "defensive": 1.021190716
+    },
+    {
+        "team": "georgetown",
+        "offensive": 1.114141414,
+        "defensive": 1.148345784
+    },
+    {
+        "team": "easternwashington",
+        "offensive": 1.03871577,
+        "defensive": 0.950789229
+    },
+    {
+        "team": "smu",
+        "offensive": 1.117412935,
+        "defensive": 1.088514226
+    },
+    {
+        "team": "ucla",
+        "offensive": 1.122199593,
+        "defensive": 1.080082136
+    },
+    {
+        "team": "iowast",
+        "offensive": 1.219487179,
+        "defensive": 1.089048106
+    },
+    {
+        "team": "uab",
+        "offensive": 1.022660099,
+        "defensive": 1.011964108
+    },
+    {
+        "team": "iowa",
+        "offensive": 1.118831823,
+        "defensive": 1.111696523
+    },
+    {
+        "team": "davidson",
+        "offensive": 1.180278884,
+        "defensive": 0.999030068
+    },
+    {
+        "team": "gonzaga",
+        "offensive": 1.178677196,
+        "defensive": 1.120985011
+    },
+    {
+        "team": "northdakotast",
+        "offensive": 0.963740458,
+        "defensive": 1.004995005
+    }
+]
